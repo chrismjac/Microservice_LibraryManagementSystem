@@ -1,0 +1,6 @@
+com\edureka\authorManagement\repository\AuthorRepository.class
+com\edureka\authorManagement\controller\AuthorController.class
+com\edureka\authorManagement\entity\Author$AuthorBuilder.class
+com\edureka\authorManagement\service\AuthorService.class
+com\edureka\authorManagement\AuthorManagementApplication.class
+com\edureka\authorManagement\entity\Author.class

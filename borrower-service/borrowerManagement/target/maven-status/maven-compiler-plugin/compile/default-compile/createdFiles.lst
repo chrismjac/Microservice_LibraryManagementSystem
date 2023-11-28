@@ -1,0 +1,8 @@
+com\edureka\borrowerManagement\BorrowerManagementApplication.class
+com\edureka\borrowerManagement\repository\BorrowingRecordRepository.class
+com\edureka\borrowerManagement\service\BorrowingRecordService.class
+com\edureka\borrowerManagement\utils\BookStatus.class
+com\edureka\borrowerManagement\controller\BorrowingRecordController.class
+com\edureka\borrowerManagement\entity\Book.class
+com\edureka\borrowerManagement\entity\Book$BookBuilder.class
+com\edureka\borrowerManagement\entity\BorrowingRecord.class
